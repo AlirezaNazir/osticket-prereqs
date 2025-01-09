@@ -43,10 +43,22 @@ The first step is to set up your virtual machine in Azure. Create a new virtual 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nYS6lVf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <p>
+<img src="https://i.imgur.com/ajYO2Am.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/5a2PCQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/prmHKqm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once you are logged into your virtual machine, go ahead and download and unzip the osTicket file from above. After that you have to enable IIS and CGI, you can do this by opening the control panel and then click on "programs" turn "windows features on or off". From there you'll see Internet Information Services and you'll want to check this one. For CGI, you'll have to expand Internet Information Services and then expand World Wide Web Services and then expand Application Development Features and from there you'll see CGI and be able to check it. From the osTicket folder download PHP Manager and the Rewrite Module. 
 </p>
 <br />
 
